@@ -13,4 +13,3 @@ const connectDB = async (req, res) => {
 };
 
 module.exports = connectDB;
- 
